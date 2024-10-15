@@ -1,4 +1,4 @@
-**Data-wise
+**Data Wise** <br>
 This dataset is suitable for global weather-related analysis and predictions because:
 
 It covers a wide range of geographical locations, providing global weather data.
